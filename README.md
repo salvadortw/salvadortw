@@ -8,8 +8,7 @@ Hello, I'm Amaro Méndez!
 
 <pre>
 💻 I am mainly a Frontend Developer
-📝 I have a strong interest in Software Engineering and Design
-🌱 Learning about efficient designs for scalable systems
+🌱 I have a strong interest in Software Engineering and Design
 🌟 Main language: JavaScript 
 😃 Fun fact: I like to read and play the piano 🎹📚
 </pre>
@@ -25,9 +24,9 @@ Hello, I'm Amaro Méndez!
 ## 💻 My Tech Stack
 
 <p>
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
-    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
-    <a href="https://www.postgresql.org/"><img alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href=""><img alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href=""><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
     <a href=""><img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href=""><img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
